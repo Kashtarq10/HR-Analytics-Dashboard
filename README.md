@@ -40,13 +40,6 @@ Tableau	Data visualization, calculated fields, dashboard design
 Excel	Data cleaning and preparation
 SQL	(Optional) For data preprocessing & aggregation
 
-📁 Folder Structure
-bash
-Copy
-Edit
-├── HR ANALYTICS.png      # Dashboard Image
-├── README.md             # Project Documentation
-└── /data                 # (Optional) Sample or synthetic HR data
 🎯 Use Cases
 HR Attrition & Retention Analysis
 
